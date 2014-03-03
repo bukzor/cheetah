@@ -8,6 +8,7 @@ Classes:
   _HighLevelParser( _LowLevelParser )
   Parser === _HighLevelParser (an alias)
 """
+exit('wat')
 
 import os
 import sys
